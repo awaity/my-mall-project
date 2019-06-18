@@ -1,7 +1,7 @@
 # my-mall-project
 
 > A Vue.js project
-##[项目预览地址](https://awaity.github.io/my-mall-project/)
+## [项目预览地址](https://awaity.github.io/my-mall-project/)
 ## Build Setup
 
 ``` bash
